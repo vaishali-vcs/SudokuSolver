@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/CentennialFall2021/COMP304_003/Week1/SudokuSolverApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/CentennialFall2021/COMP304_003/Week1/SudokuSolverApp/app/src/main/res/drawable/solve_btn.xml" value="0.2169230769230769" />
+        <entry key="..\:/CentennialFall2021/COMP304_003/Week1/SudokuSolverApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
